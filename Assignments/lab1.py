@@ -1,4 +1,4 @@
-#    A programme that that calculates a person's BMI and prints a message telling whether
+#    A programme that calculates a person's BMI and prints a message telling whether
 #    they are above, within or below the healthy range
 # by: Caleb Otchi
 
